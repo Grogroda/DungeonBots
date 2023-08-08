@@ -2,7 +2,7 @@
 
 DungeonBots is a repository containing many discord bots to help players and dungeon masters manage their D&D 5e campaigns and (mainly) Discord Guilds. You can use a set of these bots in many ways you want, but in most cases you'll probably need many more tools to run your campaign, these bots are thought to help you do simple quick things during a session or help manage a Discord ingame guild in between sessions, but again you can use it as you like it. 
 
-I currently do not intend to make these bots public since I don't want to pay for a server to run it, I'm just doing this as a creative project to learn a few things and practice my programming skills, but if I think this project is worth spreading to the world I'll find a way to do so.
+I currently do not intend to make these bots public since I don't want to pay for a server to run it, I'm just doing this as a creative project to learn a few things and practice my programming skills, but if I think this project is worth spreading to the world I'll find a way to do so. Speaking of public, for each bot there is a key required to run the bot, anyone that needs the key for testing purposes should talk directly to me, making the key publicly available does not seem to make discord happy.
 
 As always, I recommend Linux users install and use the "tree" software to visually see the directory structure on this repo before working on it, I always try to keep my repos very organized and that takes some time to plan, so if you're going to work on this repo I ask that you maintain everything very well organized and pay attention to all details and gotchas, such as the (very important) .gitignore file. 
 

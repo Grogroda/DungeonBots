@@ -1,0 +1,14 @@
+Name Type Price Rarity FindCode Rating
+"Padded Armor" Armor 5 Mundane NaN NaN
+"Leather Armor" Armor 10 Mundane NaN NaN
+"Studded Leather Armor" Armor 45 Mundane NaN NaN
+"Hide Armor" Armor 10 Mundane NaN NaN
+"Chain Shirt" Armor 50 Mundane NaN NaN
+"Scale Mail" Armor 50 Mundane NaN NaN
+Breastplate Armor 400 Mundane NaN NaN
+"Half Plate" Armor 750 Mundane NaN NaN
+"Ring Mail" Armor 30 Mundane NaN NaN
+"Chain Mail" Armor 75 Mundane NaN NaN
+"Splint Mail" Armor 200 Mundane NaN NaN
+"Plate Armor" Armor 1500 Mundane NaN NaN
+
